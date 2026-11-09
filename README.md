@@ -1,11 +1,16 @@
 # UrbanPano
 This is a new panoptic segmentation dataset based on ISPRS Potsdam and Vaihingen datasets.
 
-The paper is available at: https://ieeexplore.ieee.org/abstract/document/11730369
+The paper is available at: 
 
-The dataset together with code is available at: https://huggingface.co/datasets/Ghost146988/URBANPANO-ISPRS
+https://ieeexplore.ieee.org/abstract/document/11730369
+
+The dataset together with code is available at: 
+
+https://huggingface.co/datasets/Ghost146988/URBANPANO-ISPRS
 
 Please cite the following work if you use this dataset:
+
 @INPROCEEDINGS{11730369,
   author={Chen, Lei and Zhang, Qijian and Chai, Dengfeng},
   booktitle={IGARSS 2026 - 2026 IEEE International Geoscience and Remote Sensing Symposium}, 
